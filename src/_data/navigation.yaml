@@ -6,3 +6,5 @@ items:
     url: "#"
   - text: Blog
     url: "/blog"
+  - text: Home
+    url: "/"

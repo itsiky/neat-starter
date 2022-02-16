@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
+  - title: Twitter
+    url: "https://twitter.com/itsikye"
+    desc: My profile on Twitter microbloging platform
+  - title: Instagram
+    url: "https://www.instagram.com/itsiky/"
+    desc: My profile on Instagram social network
+  - title: Facebook
     url: "https://github.com/alpinejs/alpine"
     desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
+  - title: LinkedIn
     url: "https://tailwindcss.com/"
     desc: A utility-first CSS framework for rapidly building custom designs.
